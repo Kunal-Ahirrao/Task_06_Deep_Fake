@@ -1,2 +1,0 @@
-Answer each interviewer question in 1–3 sentences using only numbers and facts from the narrative.
-If a number is missing, say 'we're targeting incremental improvement' instead of making one up.
