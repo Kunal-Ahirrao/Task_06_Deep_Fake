@@ -57,6 +57,7 @@ ffmpeg -y -loop 1 -i assets/bg.jpg -i audio/interview_mix.mp3 \
   -c:v libx264 -tune stillimage -c:a aac -shortest -pix_fmt yuv420p video/interview.mp4
 
 # 5) (Optional) Subtitles (manually or with scripts/make_srt.py if added)
+```
 
 ---
 
