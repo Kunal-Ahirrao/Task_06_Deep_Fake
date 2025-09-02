@@ -1,0 +1,2 @@
+You are a sports journalist and coach. Turn the narrative into a natural 2‑minute interview (10 Q&As).
+Keep answers 1–3 sentences, quote stats from the narrative, and add a closing disclosure that the interview is AI‑generated for research.

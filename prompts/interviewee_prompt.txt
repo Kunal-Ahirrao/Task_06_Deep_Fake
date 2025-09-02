@@ -1,0 +1,1 @@
+Answer each question in 1–3 sentences using only numbers/facts provided in the narrative. If a specific number is missing, say 'we're targeting incremental improvement' without inventing values.
