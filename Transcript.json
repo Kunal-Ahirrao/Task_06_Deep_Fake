@@ -1,0 +1,90 @@
+{
+  "title": "Sideline Interview: 2025 SU Women’s Lacrosse Season Insights",
+  "meta": {
+    "topic": "Lacrosse dataset trends (wins/losses, avg goals, shots on goal, saves)",
+    "note": "Script designed for two voices: Reporter (R), Coach (C)",
+    "duration_target_seconds": 120
+  },
+  "lines": [
+    {
+      "speaker": "R",
+      "text": "Coach Thorpe, thanks for joining us. How would you sum up the season?"
+    },
+    {
+      "speaker": "C",
+      "text": "We finished 10–9. Many games were close, with just a one-goal margin."
+    },
+    {
+      "speaker": "R",
+      "text": "Your team averaged over 12 goals per game. What fueled that?"
+    },
+    {
+      "speaker": "C",
+      "text": "We generated volume—538 shots, with 403 on frame, about 75 percent."
+    },
+    {
+      "speaker": "R",
+      "text": "What did you learn from the biggest win against California?"
+    },
+    {
+      "speaker": "C",
+      "text": "That 18–6 win showed our ceiling when we control tempo and finish chances."
+    },
+    {
+      "speaker": "R",
+      "text": "And the toughest loss, 2–17 to Boston College?"
+    },
+    {
+      "speaker": "C",
+      "text": "It reminded us to manage runs better and communicate faster on defense."
+    },
+    {
+      "speaker": "R",
+      "text": "How do you turn those tight games into wins?"
+    },
+    {
+      "speaker": "C",
+      "text": "Focus on fewer turnovers and winning three more ground balls each game."
+    },
+    {
+      "speaker": "R",
+      "text": "Draw controls and ground balls—why are they so critical?"
+    },
+    {
+      "speaker": "C",
+      "text": "They multiply possessions. More possessions mean more shots, more goals."
+    },
+    {
+      "speaker": "R",
+      "text": "What about goalie play with 162 saves this season?"
+    },
+    {
+      "speaker": "C",
+      "text": "Improved visibility and forcing outside shots can push our save rate higher."
+    },
+    {
+      "speaker": "R",
+      "text": "Any lineup tweaks coming?"
+    },
+    {
+      "speaker": "C",
+      "text": "Yes. We’ll rotate middies for fresh legs and add an initiator behind the goal."
+    },
+    {
+      "speaker": "R",
+      "text": "What are your targets for the next stretch?"
+    },
+    {
+      "speaker": "C",
+      "text": "Fewer turnovers, plus three ground balls, and over 50 percent draw controls."
+    },
+    {
+      "speaker": "R",
+      "text": "Final message for fans?"
+    },
+    {
+      "speaker": "C",
+      "text": "We’re trending up—tighter details, better possessions, and ready to finish close games."
+    }
+  ]
+}
