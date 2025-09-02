@@ -107,5 +107,3 @@ See `data/narrative.md` for context and placeholders you can replace with your a
 
 ---
 
-## License
-MIT — see below.
